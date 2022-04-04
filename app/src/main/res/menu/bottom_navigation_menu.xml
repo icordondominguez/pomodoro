@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/page_1"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/item_pomodoros"
+        android:enabled="true"
+        android:icon="@drawable/ic_save"
+        android:title="Pomodoros" />
+
+    <item
+        android:id="@+id/item_history"
+        android:icon="@drawable/ic_history"
+        android:enabled="true"
+        android:title="History"/>
+
+    <item
+        android:id="@+id/item_user"
+        android:icon="@drawable/ic_person"
+        android:enabled="true"
+        android:title="user" />
+</menu>
